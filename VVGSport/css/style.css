@@ -1,0 +1,29 @@
+body{
+	font-family: 'Noto Sans', sans-serif;
+
+}
+
+.jumbotron{
+	background-image:url("images/background.jpg");
+	background-size: 100%;
+	background-position: top;
+	color: white;
+}
+
+.formaloginWrapper{
+
+	padding-top: 100px;
+	padding-left: 15%;
+	margin: 0 auto;
+    width: 1100px; 
+
+}
+.formaWrapper{
+
+	padding-top: 20px;
+	padding-left: 10%;
+	margin: 0 auto;
+    width: 1500px; 
+    padding-bottom: 50px;
+
+}
